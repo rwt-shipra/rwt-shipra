@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @rwt-shipra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @rwt-shipra
 
-<!---
-rwt-shipra/rwt-shipra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in front-end development, scalable architecture, and modern web technologies.
+- 🌱 I’m currently enhancing my skills in React.js, Next.js, and TypeScript, and exploring new front-end frameworks and libraries.
+- 💞️ I’m looking to collaborate on projects that involve complex UI/UX challenges, full-stack development, and code optimization for performance and maintainability.
+- 📫 How to reach me: You can contact me at [rawatshipra15@gmail.com](mailto:rawatshipra15@gmail.com) or connect with me on LinkedIn.
